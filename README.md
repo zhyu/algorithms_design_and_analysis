@@ -10,4 +10,4 @@ Programming assignments for Tim Roughgarden's (Stanford) algorithms class on Cou
 - [x] Week 3
 - [x] Week 4
 - [x] Week 5
-- [ ] Week 6
+- [x] Week 6
